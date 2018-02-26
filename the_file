@@ -5,6 +5,8 @@ public class the_file {
 		System.out.println("Hello world");
 		
 		System.out.println("Once I was afraid...");
+
+		System.out.println("I wouldn't know this song's text");
 	}
 	
 }
